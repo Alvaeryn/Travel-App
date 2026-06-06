@@ -1,1 +1,16 @@
 node_modules
+**/node_modules/
+**/.env
+**/.env.*
+**/.next/
+**/dist/
+**/build/
+**/coverage/
+**/*.log
+**/*.tsbuildinfo
+.vscode/
+.idea/
+.DS_Store
+backend/.wwebjs_cache/
+backend/session/
+hf-space-backend/
